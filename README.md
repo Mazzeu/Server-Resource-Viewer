@@ -16,7 +16,7 @@ The script prints warnings when any metric exceeds the default threshold of 80%.
 
 ## Requirements
 
-- Python 3.9+ (recommended) — `zoneinfo` is available in the standard library from Python 3.9.
+- Python 3.9+ (recommended)
 - `psutil` Python package.
 - `os`, `zoneinfo` and `datetime` (standard library modules).
 
